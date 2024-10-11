@@ -19,8 +19,8 @@ header {
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    text-align: center;
+    padding: 10px;
+    text-align: right;
 }
 
 nav ul li {
